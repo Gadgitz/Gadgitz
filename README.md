@@ -14,7 +14,7 @@
 - <b>C# Practice while in College</b>
   - [C# Practice](https://github.com/Gadgitz/C-Sharp-Projects)
 - <b>References</b>
-  - [References] (https://github.com/Gadgitz/References)
+  - [References](https://github.com/Gadgitz/References)
 
 <h2>📺 YouTube Videos</h2>
 

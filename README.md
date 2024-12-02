@@ -26,4 +26,4 @@
 [<img align="left" alt="AnthonyChipner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: http://www.youtube.com/@GadgitzGadgets
-[linkedin]: www.linkedin.com/in/anthony-chipner-20104726a
+[linkedin]: http://www.linkedin.com/in/anthony-chipner-20104726a

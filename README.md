@@ -24,6 +24,8 @@
 
 [<img align="left" alt="AnthonyChipner | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AnthonyChipner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AnthonyChipner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [youtube]: http://www.youtube.com/@GadgitzGadgets
 [linkedin]: http://www.linkedin.com/in/anthony-chipner-20104726a
+[twitter]: http//wwww.twitter.com/Gadgitztv

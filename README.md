@@ -28,4 +28,4 @@
 
 [youtube]: http://www.youtube.com/@GadgitzGadgets
 [linkedin]: http://www.linkedin.com/in/anthony-chipner-20104726a
-[twitter]: http//wwww.twitter.com/Gadgitztv
+[twitter]: http://x.com/Gadgitztv
